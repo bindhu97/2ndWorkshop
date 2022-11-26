@@ -2,7 +2,7 @@ package com.bridgelabz.Workshop2;
 
 import java.util.Arrays;
 
-public class ConcentrateOnTwoArray {
+public class ConcentrateOnTwoArray{
     public static void main(String[] args)  {
     	
         int[] a = { 10, 20, 30, 40 };
